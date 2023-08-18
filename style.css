@@ -64,7 +64,7 @@
   
   /* Jumbotron  */
   .jumbotron {
-    background-image: url(bck1.png);
+    background-image: url('bck1.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: calc(80vh - 10px);
