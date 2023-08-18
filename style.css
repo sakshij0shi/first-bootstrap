@@ -39,7 +39,7 @@
   }
   /* Navigation dropdown menu */
   .dropdown-menu {
-    background: url(../images/transparency.png);
+    background: url(transparency.png);
     background-color: transparent !important;
     background-size: cover;
   }
@@ -64,7 +64,7 @@
   
   /* Jumbotron  */
   .jumbotron {
-    background-image: url(../images/bck1.png);
+    background-image: url(bck1.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: calc(80vh - 10px);
@@ -101,7 +101,7 @@
   /* ABOUT ME*/
   .aboutme {
     margin-top: 5%;
-    background-image: url(../images/bck2.png);
+    background-image: url(bck2.png);
     height: 480px;
   }
   #pannel {
@@ -187,7 +187,7 @@
   }
   
   .row1 {
-    background-image: url(../images/bck3.png);
+    background-image: url(bck3.png);
     padding: 25px;
     height: 200px;
     width: 1400px;
@@ -209,7 +209,7 @@
   }
   
   .row2 {
-    background-image: url(../images/bck3.png);
+    background-image: url(bck3.png);
     padding: 25px;
     height: 200px;
     width: 1400px;
@@ -233,7 +233,7 @@
   
   
   .row3 {
-    background-image: url(../images/bck3.png);
+    background-image: url(bck3.png);
     padding: 25px;
     height: 200px;
     width: 1400px;
@@ -268,7 +268,7 @@
   }
 
   .contact {
-    background-image: url(../images/bck4.png);
+    background-image: url(bck4.png);
   }
 
   .card {
@@ -290,7 +290,7 @@
 .footer {
   font-size: 46px;
   margin-top: 2%;
-  background-image: url(../images/bck4.png);
+  background-image: url(bck4.png);
 }
 
 .footer p {
