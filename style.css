@@ -395,7 +395,7 @@ text-align: center;
 
 
  /* Tablet Medium devices*/
- @media screen and (max-width:768px) {
+ @media (max-width:991px) {
   .navbar-brand {
    font-size: 20px;
   }
@@ -511,7 +511,7 @@ width: 50px;
  }
   
    /* Small devices- MOBILE PHONES*/
-   @media screen and (max-width: 600px) and (min-width: 400px) {
+   @media (max-width:767px) {
     .jumbotext h1 {
       font-size: 27px;
     }
