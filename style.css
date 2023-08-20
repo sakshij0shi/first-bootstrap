@@ -8,15 +8,6 @@
     --button: #FFB6C1;
   }
   
-  
-  /* Text */
-  h1, h2, h3 , h4, h5, h6 {
-    font-family: 'Jura', sans-serif;
-  }
-  p {
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
   /* Navigation bar */
   
   /* General */
@@ -29,6 +20,9 @@
   .navbar-nav {
     margin-left: auto;
     margin-right: 0 !important;
+  }
+  .fa{
+    color: #f7f9fc;
   }
   .navbar-brand img {
     padding-right: 15px;
